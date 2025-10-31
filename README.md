@@ -139,5 +139,4 @@ Add feature selection or PCA for dimensionality reduction
 Developed by: [Rahma Saber Abbas]
  Date: October 31, 2025
  File: Used_Car_Price_Prediction.py
-  'ridge__alpha': 0.1
-}
+
